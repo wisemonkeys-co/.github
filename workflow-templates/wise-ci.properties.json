@@ -1,5 +1,8 @@
 {
     "name": "Wise Workflow",
     "description": "Wise CI starter workflow.",
-    "iconName": "monkey-icon"
+    "iconName": "monkey-icon",
+    "categories": [
+        "Wise"
+    ]
 }
